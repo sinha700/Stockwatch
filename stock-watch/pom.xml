@@ -8,10 +8,10 @@
 		<version>2.6.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.stockwatch</groupId>
-	<artifactId>stockwatch</artifactId>
+	<groupId>com.stock-watch</groupId>
+	<artifactId>stock-watch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>stockwatch</name>
+	<name>stock-watch</name>
 	<description>Java microservice project using AlphaVantage API</description>
 	<properties>
 		<java.version>11</java.version>
