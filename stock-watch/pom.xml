@@ -12,10 +12,14 @@
 	<artifactId>stock-watch</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>stock-watch</name>
+	<packaging>pom</packaging>
 	<description>Java microservice project using AlphaVantage API</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
+	<modules>
+	   <module>stock-watch-config-server</module>
+	</modules>
 	<dependencies>
 		
 	</dependencies>
